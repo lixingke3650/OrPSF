@@ -1,0 +1,16 @@
+﻿####git监视文件排除####
+
+##########
+# folder #
+##########
+Debug
+Release
+OrPSF\Debug
+OrPSF\Release
+*.user
+
+##########
+#  file  #
+##########
+*.suo
+*.ncb
