@@ -20,12 +20,12 @@ linux中开启ssh即可。
 ## 使用说明
 
 bin文件夹下为release后的程序，直接双击OrPSF.exe使用。  
-若进行自编译，请将psftp.dat与编译生成的.exe放在同一文件夹下。  
+若自行编译，请将psftp.dat与编译生成的.exe放在同一文件夹下。  
 
 
 ## 写给自己
 
 * 为实现最大兼容性，使用MFC编写。  
-* 目前借用psftp.exe实现STPF协议，后序可考虑自己实现。  
+* 目前借用psftp.exe实现SFTP协议，后序可考虑自己实现。  
 
   
